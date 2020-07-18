@@ -1,0 +1,12 @@
+col {
+  max-height: 350px;
+  height: auto;
+  overflow: hidden;
+  display: flex;
+}
+
+img {
+  width: 100%;
+  max-width: 400;
+  padding: 20px 0;
+}
